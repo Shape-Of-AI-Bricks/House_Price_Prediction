@@ -1,6 +1,9 @@
 # House_Price_Prediction.github.io
 
-https://github.com/shiva201/House_Price_Prediction.github..io.git
+github : https://github.com/Shape-Of-AI-Bricks/House_Price_Prediction.git
+
+colab : https://colab.research.google.com/drive/1zP7W8cat5lupELDhJqwiHtrjxkV-jwlL?usp=sharing
+
 
 # House_Price_Prediction.github.io
 
